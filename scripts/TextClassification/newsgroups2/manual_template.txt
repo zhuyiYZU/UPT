@@ -1,0 +1,4 @@
+{"mask"} category : {"placeholder": "text_a"}
+{"placeholder": "text_a"} The text is about {"mask"}.
+The text is about {"mask"}, {"placeholder": "text_a"}
+{"placeholder": "text_a"} The topic is about {"mask"}

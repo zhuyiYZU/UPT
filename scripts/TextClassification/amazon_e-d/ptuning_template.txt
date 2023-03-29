@@ -1,0 +1,4 @@
+{"soft"} {"mask"} {"soft"}  : {"placeholder": "text_a"}
+{"placeholder": "text_a"} {"soft"}  {"soft"}  is {"mask"}.
+{"placeholder": "text_a"} {"soft"} {"soft"} of the {"soft"} is {"mask"}.
+{"placeholder": "text_a"} A {"mask"} {"soft"}.

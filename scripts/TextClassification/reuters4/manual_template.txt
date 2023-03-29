@@ -1,0 +1,4 @@
+{"placeholder": "text_a"} The text {"mask"} belong to this class.
+{"placeholder": "text_a"} The text {"mask"} belong to this category.
+The text {"mask"} belong to this category, {"placeholder": "text_a"}
+The text {"mask"} part of this category, {"placeholder": "text_a"}

@@ -1,0 +1,6 @@
+{"placeholder": "text_a"} {"soft"} {"soft"} {"mask"} {"soft"} to this class.
+{"placeholder": "text_a"} The text {"mask"} {"soft"} {"soft"} {"soft"} {"soft"}.
+{"soft"} {"soft"} {"mask"} belong to {"soft"} {"soft"}, {"placeholder": "text_a"}
+{"soft"} {"soft"} {"mask"} {"soft"} {"soft"} {"soft"} category, {"placeholder": "text_a"}{"placeholder": "text_a"}
+{"soft"} Category {"soft"} {"mask"} {"soft"} {"placeholder": "text_a"} {"placeholder": "text_b"}
+{"soft"} Topic {"soft"} {"mask"} {"soft"} {"placeholder": "text_a"} {"placeholder": "text_b"}

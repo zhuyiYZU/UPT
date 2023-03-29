@@ -1,0 +1,4 @@
+A {"mask"} attitude  : {"placeholder": "text_a"}
+{"placeholder": "text_a"} The comment is {"mask"}.
+{"placeholder": "text_a"} The attitude of the comment is {"mask"}.
+{"placeholder": "text_a"} A {"mask"} attitude.

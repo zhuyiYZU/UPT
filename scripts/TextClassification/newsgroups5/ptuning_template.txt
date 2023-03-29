@@ -1,0 +1,7 @@
+{"mask"} {"soft"} : {"placeholder": "text_a"}
+{"placeholder": "text_a"} {"soft"}  {"soft"}  is {"soft"}  {"mask"}
+{"soft"}  {"soft"}  {"soft"}  about {"mask"}, {"placeholder": "text_a"}
+{"placeholder": "text_a"} {"soft"}  {"soft"}  {"soft"}  about {"mask"}
+{"placeholder": "text_a"} {"placeholder": "text_b"} {"soft"} topic {"soft"} {"soft"} {"mask"} {"soft"}.
+{"soft"} Category {"soft"} {"mask"} {"soft"} {"placeholder": "text_a"} {"placeholder": "text_b"}
+{"soft"} Topic {"soft"} {"mask"} {"soft"} {"placeholder": "text_a"} {"placeholder": "text_b"}
